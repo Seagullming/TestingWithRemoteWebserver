@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27471" started-at="2019-09-26T16:05:48 NZST" finished-at="2019-09-26T16:06:16 NZST">
+    <groups>
+    </groups>
+    <test name="com.FirstTest" duration-ms="14687" started-at="2019-09-26T16:05:48 NZST" finished-at="2019-09-26T16:06:03 NZST">
+      <class name="remotedriver.FirstTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:remotedriver.FirstTest@1f28c152]" name="setup" is-config="true" duration-ms="12782" started-at="2019-09-26T16:05:49 NZST" finished-at="2019-09-26T16:06:01 NZST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:remotedriver.FirstTest@1f28c152]" name="setup" is-config="true" duration-ms="4410" started-at="2019-09-26T16:05:49 NZST" finished-at="2019-09-26T16:05:53 NZST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:remotedriver.FirstTest@1f28c152]" name="setup" is-config="true" duration-ms="9815" started-at="2019-09-26T16:05:49 NZST" finished-at="2019-09-26T16:05:58 NZST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GOOGLE3()[pri:0, instance:remotedriver.FirstTest@1f28c152]" name="GOOGLE3" duration-ms="2879" started-at="2019-09-26T16:05:53 NZST" finished-at="2019-09-26T16:05:56 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:remotedriver.FirstTest@1f28c152]" name="tearDown" is-config="true" duration-ms="76" started-at="2019-09-26T16:05:56 NZST" finished-at="2019-09-26T16:05:56 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="GOOGLE1()[pri:0, instance:remotedriver.FirstTest@1f28c152]" name="GOOGLE1" duration-ms="1585" started-at="2019-09-26T16:05:58 NZST" finished-at="2019-09-26T16:06:00 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:remotedriver.FirstTest@1f28c152]" name="tearDown" is-config="true" duration-ms="64" started-at="2019-09-26T16:06:00 NZST" finished-at="2019-09-26T16:06:00 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="GOOGLE2()[pri:0, instance:remotedriver.FirstTest@1f28c152]" name="GOOGLE2" duration-ms="1705" started-at="2019-09-26T16:06:01 NZST" finished-at="2019-09-26T16:06:03 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:remotedriver.FirstTest@1f28c152]" name="tearDown" is-config="true" duration-ms="69" started-at="2019-09-26T16:06:03 NZST" finished-at="2019-09-26T16:06:03 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:remotedriver.FirstTest@1f28c152]" name="terminate" is-config="true" duration-ms="0" started-at="2019-09-26T16:06:03 NZST" finished-at="2019-09-26T16:06:03 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- remotedriver.FirstTest -->
+    </test> <!-- com.FirstTest -->
+    <test name="com.SecondTest" duration-ms="27471" started-at="2019-09-26T16:05:48 NZST" finished-at="2019-09-26T16:06:16 NZST">
+      <class name="remotedriver.SecondTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:remotedriver.SecondTest@6321e813]" name="setup" is-config="true" duration-ms="16732" started-at="2019-09-26T16:05:49 NZST" finished-at="2019-09-26T16:06:05 NZST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:remotedriver.SecondTest@6321e813]" name="setup" is-config="true" duration-ms="6764" started-at="2019-09-26T16:05:49 NZST" finished-at="2019-09-26T16:05:55 NZST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="GOOGLE4()[pri:0, instance:remotedriver.SecondTest@6321e813]" name="GOOGLE4" duration-ms="3508" started-at="2019-09-26T16:05:55 NZST" finished-at="2019-09-26T16:05:59 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GOOGLE4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:remotedriver.SecondTest@6321e813]" name="tearDown" is-config="true" duration-ms="2306" started-at="2019-09-26T16:05:59 NZST" finished-at="2019-09-26T16:06:01 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="YANDEX()[pri:0, instance:remotedriver.SecondTest@6321e813]" name="YANDEX" duration-ms="7781" started-at="2019-09-26T16:06:05 NZST" finished-at="2019-09-26T16:06:13 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- YANDEX -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:remotedriver.SecondTest@6321e813]" name="tearDown" is-config="true" duration-ms="2829" started-at="2019-09-26T16:06:13 NZST" finished-at="2019-09-26T16:06:16 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="terminate()[pri:0, instance:remotedriver.SecondTest@6321e813]" name="terminate" is-config="true" duration-ms="1" started-at="2019-09-26T16:06:16 NZST" finished-at="2019-09-26T16:06:16 NZST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- remotedriver.SecondTest -->
+    </test> <!-- com.SecondTest -->
+  </suite> <!-- Suite -->
+</testng-results>
